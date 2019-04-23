@@ -1,2 +1,9 @@
 print('Hello world');
+<<<<<<< HEAD
 print('Hello world1');
+=======
+print('Hello gays');
+print('Hello');
+print('Hi');
+
+>>>>>>> feature/goodbye
